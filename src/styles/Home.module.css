@@ -1,0 +1,59 @@
+.heading {
+    color: navy;
+    font-weight: bolder;
+    font-size: 3.8rem;
+}
+
+.container1 {
+    width: 50%;
+    margin: auto;
+}
+
+.headingprimary {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 1.7rem;
+    color: rgb(3, 3, 103);
+    font-weight: bold;
+}
+
+.paraprimary {
+    text-align: left;
+}
+
+.blogheading {
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.blogpara {
+    text-align: left;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.mainpage {
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.blogitemheading {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+
+.blogslug {
+    font-weight: lighter;
+}
+
+.blogpara {
+
+    color: black;
+    margin-top: 10px;
+    font-size: 15px;
+}
